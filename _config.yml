@@ -1,0 +1,29 @@
+title: "Lucy Ward · Music writer"
+description: "Single, album and live reviews, festival previews and features by Lucy Ward for DIY, The Skinny, Ones To Watch, EARMILK and Magnetic Magazine."
+email: lucy@lucyaward.co.uk
+
+# The sections on the page, in this order. "id" matches "type" in _data/pieces.yml
+sections:
+  - id: singles
+    title: Single reviews
+    nav: Singles
+    label: Single review
+  - id: releases
+    title: EP and album reviews
+    nav: EPs and albums
+    label: Release review
+  - id: live
+    title: Live and festival reviews
+    nav: Live
+    label: Live review
+  - id: previews
+    title: Festival and event previews
+    nav: Previews
+    label: Preview
+  - id: features
+    title: Features and interviews
+    nav: Features
+    label: Feature
+
+exclude:
+  - README.md
