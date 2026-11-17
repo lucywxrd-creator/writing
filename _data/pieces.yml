@@ -1,0 +1,356 @@
+# ─────────────────────────────────────────────────────────────
+# ALL MY WRITING LIVES HERE. This is the only file I need to edit.
+#
+# To add a piece: copy the block below, paste it at the TOP of the
+# right section, fill it in, and press "Commit changes".
+#
+# - title: "Artist – 'Song Name'"
+#   url: https://link-to-the-article
+#   publication: EARMILK
+#   type: singles
+#   date: Dec 2025
+#   favourite: false
+#   editor_byline: false
+#
+# type must be one of:
+#   singles   = Single reviews
+#   releases  = EP and album reviews
+#   live      = Live and festival reviews
+#   previews  = Festival and event previews
+#   features  = Features and interviews
+#
+# favourite: true    puts it in "My favourites" at the top of the page
+# editor_byline: true  adds "Written for [publication]; published under
+#                      the editor's byline." under the link
+# note: "..."        (optional) adds a short line under the link
+# No url? Leave the url line out and it shows as plain text (e.g. print).
+#
+# Keep the two spaces before each line, and keep quotes round titles.
+# ─────────────────────────────────────────────────────────────
+
+# ── Single reviews ───────────────────────────────────────────
+
+- title: "Dom Quincey shares vibe-rich, uplifting indie pop anthem 'It's Not The End…'"
+  url: https://earmilk.com/2025/11/16/dom-quincey-shares-vibe-rich-uplifting-indie-pop-anthem-its-not-the-end/
+  publication: EARMILK
+  type: singles
+  date: Nov 2025
+  editor_byline: true
+
+- title: "Sound of Fractures fights against the doomscroll in new release 'I Wanna Get Back'"
+  url: https://earmilk.com/?p=783424
+  publication: EARMILK
+  type: singles
+  date: Nov 2025
+  editor_byline: true
+
+- title: "Iris Caltwait – 'Serpentine'"
+  url: https://diymag.com/feature/the-neu-bulletin-opus-kink-chiedu-oraka-the-new-eves-and-more
+  publication: DIY
+  type: singles
+  date: Oct 2025
+  note: "Neu Bulletin"
+
+- title: "Jenny on Holiday – 'Every Ounce of Me'"
+  publication: DIY
+  type: singles
+  date: Oct 2025
+  note: "Neu Recommended, DIY print issue, October 2025"
+
+- title: "Disgusting Sisters – 'TGIF'"
+  url: https://diymag.com/feature/the-neu-bulletin-florence-road-shes-in-parties-erin-lecount-and-more
+  publication: DIY
+  type: singles
+  date: Sep 2025
+  note: "Neu Bulletin"
+
+- title: "Elijah Cruise explores love's shadows on new single 'Dark Romance'"
+  url: https://earmilk.com/2025/08/28/elijah-cruise-explores-loves-shadows-on-new-single-dark-romance/
+  publication: EARMILK
+  type: singles
+  date: Aug 2025
+  editor_byline: true
+
+- title: "Finding calm in the in-between: Bobby Freemont's 'Somewhere By A Lake'"
+  url: https://earmilk.com/2025/08/05/finding-calm-in-the-in-between-the-meaning-behind-bobby-freemonts-soulful-new-single-somewhere-by-a-lake/
+  publication: EARMILK
+  type: singles
+  date: Aug 2025
+  editor_byline: true
+
+- title: "Tender realisation: Flo Fields finds healing in heartbreak in debut single 'Dependency'"
+  url: https://earmilk.com/2025/07/15/tender-realisation-flo-fields-finds-healing-in-heartbreak-in-debut-single-dependency
+  publication: EARMILK
+  type: singles
+  date: Jul 2025
+  editor_byline: true
+
+- title: "Trust, temptation, and a beat made of jean slaps: inside Bonnie Freechild's 'Honey'"
+  url: https://earmilk.com/2025/07/10/trust-temptation-and-a-beat-made-of-jean-slaps-inside-bonnie-freechilds-honey
+  publication: EARMILK
+  type: singles
+  date: Jul 2025
+  editor_byline: true
+
+- title: "Ohmfield's latest single 'Wake' is the summer-infused hug you didn't know UKG needed"
+  url: https://earmilk.com/2025/07/10/ohmfields-latest-single-wake-is-the-summer-infused-hug-you-didnt-know-ukg-needed/
+  publication: EARMILK
+  type: singles
+  date: Jul 2025
+  editor_byline: true
+
+- title: "Billianne – 'Baby Blue'"
+  url: https://diymag.com/feature/the-neu-bulletin-brogeal-panic-shack-fuzz-lightyear-and-more
+  publication: DIY
+  type: singles
+  date: Jun 2025
+  note: "Neu Bulletin"
+
+- title: "Adore – 'Show Me Your Teeth'"
+  url: https://diymag.com/feature/the-neu-bulletin-man-woman-chainsaw-adore-the-new-eves-and-more
+  publication: DIY
+  type: singles
+  date: May 2025
+  note: "Neu Bulletin"
+
+- title: "Kabrio & PRVNAS – 'Changed My Mind'"
+  url: https://earmilk.com/2025/05/02/kabrio-and-prvnas-changed-my-mind-is-a-sultry-ode-to-temptation-and-glittery-nod-to-nostalgia/
+  publication: EARMILK
+  type: singles
+  date: May 2025
+  editor_byline: true
+
+- title: "Astral Bakers draw inspiration from fables in new single 'A Dog in a Manger'"
+  url: https://www.onestowatch.com/en/blog/astral-bakers-draw-inspiration-from-fables-in-new-single-a-dog-in-a-manger
+  publication: Ones To Watch
+  type: singles
+  date: Apr 2025
+
+- title: "Mychelle – 'Seasons'"
+  url: https://diymag.com/feature/the-neu-bulletin-the-new-eves-man-woman-chainsaw-slow-fiction-and-more
+  publication: DIY
+  type: singles
+  date: Apr 2025
+  note: "Neu Bulletin"
+
+- title: "Munan merges infectious riffs with emotional depth in new single 'Fake Love Friday'"
+  url: https://earmilk.com/2025/03/26/munan-merges-infectious-riffs-with-emotional-depth-in-new-single-fake-love-friday/
+  publication: EARMILK
+  type: singles
+  date: Mar 2025
+  editor_byline: true
+
+- title: "MarMar showcases his production abilities in euphoric UKG track 'Missing Me'"
+  url: https://earmilk.com/2025/03/21/marmar-showcases-his-production-abilities-in-euphoric-ukg-track-missing-me/
+  publication: EARMILK
+  type: singles
+  date: Mar 2025
+  editor_byline: true
+
+- title: "JENNIE & Doechii – 'ExtraL'"
+  url: https://www.onestowatch.com/en/blog/jennie-doechii-extral
+  publication: Ones To Watch
+  type: singles
+  date: Feb 2025
+
+- title: "Sam Fender – 'Arm's Length'"
+  url: https://www.onestowatch.com/en/blog/sam-fender-arms-length
+  publication: Ones To Watch
+  type: singles
+  date: Feb 2025
+
+- title: "BASSTRIPPER transports you to the dance floor with energetic new track 'Through You'"
+  url: https://earmilk.com/2025/01/29/basstripper-transports-you-to-the-dance-floor-with-energetic-new-track-through-you/
+  publication: EARMILK
+  type: singles
+  date: Jan 2025
+  editor_byline: true
+
+- title: "The Fin – 'Echoes'"
+  url: https://earmilk.com/2025/01/29/exploring-themes-of-nature-and-nostalgia-the-fin-immerses-listeners-with-their-ethereal-track-echoes/
+  publication: EARMILK
+  type: singles
+  date: Jan 2025
+  editor_byline: true
+
+- title: "Yungblud is unapologetically British and laced with chaos in latest Brit-rock single 'Lovesick Lullaby'"
+  url: https://www.onestowatch.com/en/blog/yungblud-is-unapologetically-british-and-laced-with-chaos-in-latest-brit-rock-single-lovesick-lullaby
+  publication: Ones To Watch
+  type: singles
+  date: "2025"
+
+- title: "girl in red – 'Confession'"
+  url: https://www.onestowatch.com/en/blog/girl-in-red-confession
+  publication: Ones To Watch
+  type: singles
+
+- title: "Beach Bunny wrestles with self-doubt in lively new single 'Tunnel Vision'"
+  url: https://www.onestowatch.com/en/blog/beach-bunny-wrestles-with-self-doubt-in-lively-new-single-tunnel-vision
+  publication: Ones To Watch
+  type: singles
+
+- title: "Barry Can't Swim leans into futuristic soundscapes and compelling narratives with 'The Person You'd Like To Be'"
+  url: https://www.onestowatch.com/en/blog/barry-cant-swim-leans-into-futuristic-soundscapes-and-compelling-narratives-with-the-person-youd-like-to-be
+  publication: Ones To Watch
+  type: singles
+
+- title: "Vienna Vienna takes the world by storm with unapologetic anthem 'God Save The Queens'"
+  url: https://www.onestowatch.com/en/blog/vienna-vienna-takes-the-world-by-storm-with-unapologetic-anthem-god-save-the-queens
+  publication: Ones To Watch
+  type: singles
+
+# ── EP and album reviews ─────────────────────────────────────
+
+- title: "Barry Can't Swim – Loner"
+  url: https://www.theskinny.co.uk/music/reviews/albums/barry-cant-swim-loner
+  publication: The Skinny
+  type: releases
+  date: Jul 2025
+  favourite: true
+  note: "Four-star album review"
+
+- title: "re:abel showcases his production abilities on his atmospheric and haunting EP 'Flying Colours'"
+  url: https://earmilk.com/2025/01/30/reabel-showcases-his-production-abilities-on-his-atmospheric-and-haunting-ep-flying-colours/
+  publication: EARMILK
+  type: releases
+  date: Jan 2025
+  editor_byline: true
+
+- title: "Emotive, electric, unstoppable: Michael Aldag's 'Crying in the Club' EP"
+  url: https://www.onestowatch.com/en/blog/emotive-electric-unstoppable-michael-aldags-crying-in-the-club-ep
+  publication: Ones To Watch
+  type: releases
+
+- title: "Between ascent and vertigo: Astral Bakers' 'Vertical Life'"
+  url: https://www.onestowatch.com/en/blog/between-ascent-and-vertigo-astral-bakers-vertical-life
+  publication: Ones To Watch
+  type: releases
+
+# ── Live and festival reviews ────────────────────────────────
+
+- title: "Live review: SHARKTANK bring raw unfiltered energy to The Victoria, Dalston"
+  url: https://earmilk.com/2025/10/10/live-review-sharktank-bring-raw-unfiltered-energy-to-the-victoria-dalston/
+  publication: EARMILK
+  type: live
+  date: Oct 2025
+  editor_byline: true
+
+- title: "A spiritual spectacle: Cleo Sol, Chronixx and SAULT illuminate All Points East 2025"
+  url: https://earmilk.com/2025/09/05/a-spiritual-spectacle-cleo-sol-chronixx-and-sault-illuminate-all-points-east-2025/
+  publication: EARMILK
+  type: live
+  date: Sep 2025
+  favourite: true
+  editor_byline: true
+
+- title: "Boomtown 2025: living in the power of now"
+  url: https://earmilk.com/2025/08/17/boomtown-2025-living-in-the-power-of-now-event-review/
+  publication: EARMILK
+  type: live
+  date: Aug 2025
+  editor_byline: true
+
+- title: "Wilderness Festival 2025: a boutique blend of nature and musical diversity"
+  url: https://earmilk.com/2025/08/08/wilderness-festival-2025-a-boutique-blend-of-nature-and-musical-diversity/
+  publication: EARMILK
+  type: live
+  date: Aug 2025
+  editor_byline: true
+
+- title: "Live at Love Supreme 2025: my highlights from the UK's biggest jazz festival"
+  url: https://earmilk.com/2025/07/11/live-at-love-supreme-2025-my-highlights-from-the-uks-biggest-jazz-festival/
+  publication: EARMILK
+  type: live
+  date: Jul 2025
+  favourite: true
+  editor_byline: true
+
+- title: "LIDO Festival 2025: an exciting, artist-led new chapter for London's music scene"
+  url: https://earmilk.com/2025/06/25/lido-festival-2025-an-exciting-artist-led-new-chapter-for-londons-music-scene/
+  publication: EARMILK
+  type: live
+  date: Jun 2025
+  editor_byline: true
+
+- title: "Lost in the woods: why Forbidden Forest 2025 was next level"
+  url: https://earmilk.com/2025/06/24/lost-in-the-woods-why-forbidden-forest-2025-was-next-level/
+  publication: EARMILK
+  type: live
+  date: Jun 2025
+  editor_byline: true
+
+- title: "Field Day 2025 knocked it out the park with unmissable sets and unforgettable vibes"
+  url: https://earmilk.com/2025/06/04/field-day-2025-knocked-it-out-the-park-with-unmissable-sets-and-unforgettable-vibes/
+  publication: EARMILK
+  type: live
+  date: Jun 2025
+  editor_byline: true
+
+# ── Festival and event previews ──────────────────────────────
+
+- title: "Cheerful Music brings Building the Bridge showcase to ADE 2025"
+  url: https://earmilk.com/2025/10/21/cheerful-music-brings-building-the-bridge-showcase-to-ade-2025/
+  publication: EARMILK
+  type: previews
+  date: Oct 2025
+  editor_byline: true
+
+- title: "Creamfields 2025: a monumental weekend of dance titans, rising icons & artistic extremes"
+  url: https://magneticmag.com/2025/08/creamfields-2025-a-monumental-weekend-of-dance-titans-rising-icons-artistic-extremes/
+  publication: Magnetic Magazine
+  type: previews
+  date: Aug 2025
+  editor_byline: true
+
+- title: "Creamfields 2025 boasts a blockbuster lineup: Chase & Status, Anyma, Swedish House Mafia & beyond"
+  url: https://earmilk.com/2025/08/05/creamfields-2025-boasts-a-blockbuster-lineup-chase-status-anyma-swedish-house-mafia-beyond/
+  publication: EARMILK
+  type: previews
+  date: Aug 2025
+  editor_byline: true
+
+- title: "From jungle to jazz: the Shambala sets we're buzzing for"
+  url: https://earmilk.com/2025/06/12/from-jungle-to-jazz-the-shambala-sets-were-buzzing-for/
+  publication: EARMILK
+  type: previews
+  date: Jun 2025
+  editor_byline: true
+
+- title: "Isle of Wight Festival 2025: our top artist picks for a legendary weekend"
+  url: https://earmilk.com/2025/06/12/isle-of-wight-festival-2025-our-top-artist-picks-for-a-legendary-weekend/
+  publication: EARMILK
+  type: previews
+  date: Jun 2025
+  editor_byline: true
+
+- title: "LIDO Festival starts its first year with Charli XCX, Massive Attack, Jamie xx & more"
+  url: https://earmilk.com/2025/06/05/lido-festival-starts-its-first-year-with-charli-xcx-massive-attack-jamie-xx-more
+  publication: EARMILK
+  type: previews
+  date: Jun 2025
+  editor_byline: true
+
+- title: "Field Day 2025 is packing a punch with performances from Peggy Gou, Folamour, Bubble Love & more"
+  url: https://earmilk.com/2025/05/22/field-day-2025-is-packing-a-punch-with-performances-from-electronic-icons-peggy-gou-folamour-bubble-love-more/
+  publication: EARMILK
+  type: previews
+  date: May 2025
+  editor_byline: true
+
+- title: "The Great Escape 2025: our ones to watch from Brighton Beach"
+  url: https://earmilk.com/2025/05/13/the-great-escape-2025-our-ones-to-watch-from-brighton-beach/
+  publication: EARMILK
+  type: previews
+  date: May 2025
+  editor_byline: true
+
+# ── Features and interviews ──────────────────────────────────
+
+- title: "Artists shaping culture: highlights from the Independent Music Awards 2025"
+  url: https://earmilk.com/2025/10/17/artists-shaping-culture-highlights-from-the-independent-music-awards-2025-including-ayanna-witter-johnson-fontaines-d-c-many-more/
+  publication: EARMILK
+  type: features
+  date: Oct 2025
+  favourite: true
+  editor_byline: true
+  note: "Accredited press at the AIM Independent Music Awards 2025, including my interview with Moonchild Sanelly"
